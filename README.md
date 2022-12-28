@@ -44,7 +44,7 @@ Iniciamos el servidor
 | capabilities        | Descripción        |
 | -------------       |:------------------:|
 | automationName      | Define el motor de automatizacióna utilizar.Los valores posibles son:Para **Android**: Appium, UiAutomator2, Espresso, UiAutomator1.Para **iOS**:XCUITest o InstrumentsYou.i Engine: YouiEngine |
-| plataformName       | Que sistema operativo del dispositivo usaremos. Valores posibles: Android, iOS, FirefoxOS  |
+| platformName       | Que sistema operativo del dispositivo usaremos. Valores posibles: Android, iOS, FirefoxOS  |
 | plataformVersion    | Versióndel sistema operativo del dispositivo móvil.     |
 | deviceName          |El nombre del dispositivo móvil o emulador a usar. *Copiar el nombre del dispositivo mostrado por el resultado mostrado en la consola de comandos*|
 
